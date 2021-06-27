@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## 欢迎！
+这里是awaBlack的个人主页
 
-You can use the [editor on GitHub](https://github.com/awaBlack/awaBlack.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+```
+QQ昵称:awaBlack
+QQ号:2260142324
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+BiliBili昵称:ComputerSystem
+BiliBili用户名:bili_48056826241
+BiliBili地址:https://space.bilibili.com/661491357
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Gitblock昵称:awaBlack
+Gitblock地址:https://gitblock.cn/Users/1181422
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/awaBlack/awaBlack.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+© 2021 awaBlack，All rights reserved.
+Server:GitHub Pages
